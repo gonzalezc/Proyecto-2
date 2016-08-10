@@ -1,0 +1,8 @@
+.cell{
+	background-color: lightgrey;
+	width: 50px;
+	border: 25px solid green;
+	padding: 50px;
+	margin: 50px;
+	display: inline-block;
+}
